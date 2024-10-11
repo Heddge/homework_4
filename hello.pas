@@ -4,5 +4,6 @@
     'Russian','russian','rus','Rus': Print('Привет, хорошего дня! :)');
     'english','English','eng','Eng': Print('Hello, have a nice day! :)');
     'Spanish','spanish','span','Span': Print('Hola, que tengas un buen día! :)');
+    'Japanese','japanese','japan','Japan': Print('こんにちは,よいお年をお迎え下さい！！！ :)');
   end;
 end.
