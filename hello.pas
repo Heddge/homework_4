@@ -6,5 +6,6 @@
     'Spanish','spanish','span','Span': Print('Hola, que tengas un buen día! :)');
     'Japanese','japanese','japan','Japan': Print('こんにちは,よいお年をお迎え下さい！！！ :)');
     'Chinese','chinese','chin','Chin','china','China': Print('嗨,祝你今天愉快! :)');
+    'Italy','Italian','italy','italian': Print('Ciao, buona giornata! :)');
   end;
 end.
